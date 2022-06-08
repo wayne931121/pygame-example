@@ -1,0 +1,1 @@
+{'score': 0, 'player': {'speedx': 10, 'speedy': 10}, 'rock': {'value': 8, 'speedx': {'min': 1, 'max': 5}, 'speedy': {'min': 2, 'max': 8}}, 'bullet': {'speedy': 10}}
